@@ -152,7 +152,6 @@ other: &other
 
 requirements: &requirements
   - .github/workflows/**
-  - homeassistant/package_constraints.txt
   - requirements*.txt
   - pyproject.toml
   - script/licenses.py
