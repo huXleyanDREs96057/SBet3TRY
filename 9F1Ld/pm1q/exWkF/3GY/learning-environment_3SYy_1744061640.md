@@ -21,5 +21,4 @@ use GitHub pull requests for this purpose. Consult
 information on using pull requests.
 
 ## Community Guidelines
-
 Guidelines](https://opensource.google.com/conduct/).
