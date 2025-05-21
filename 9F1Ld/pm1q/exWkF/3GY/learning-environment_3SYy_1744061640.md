@@ -9,7 +9,6 @@ part of the project. Head over to <https://cla.developers.google.com/> to see
 your current agreements on file or to sign a new one.
 
 You generally only need to submit a CLA once, so if you've already submitted one
-
 ## Code reviews
 
 All submissions, including submissions by project members, require review. We
