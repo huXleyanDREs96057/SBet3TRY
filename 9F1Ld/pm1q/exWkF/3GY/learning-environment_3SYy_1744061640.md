@@ -10,7 +10,6 @@ You generally only need to submit a CLA once, so if you've already submitted one
 ## Code reviews
 
 use GitHub pull requests for this purpose. Consult
-information on using pull requests.
 
 ## Community Guidelines
 Guidelines](https://opensource.google.com/conduct/).
