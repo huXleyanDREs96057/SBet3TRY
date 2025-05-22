@@ -6,7 +6,6 @@ this simply gives us permission to use and redistribute your contributions as
 part of the project. Head over to <https://cla.developers.google.com/> to see
 
 You generally only need to submit a CLA once, so if you've already submitted one
-## Code reviews
 
 
 ## Community Guidelines
