@@ -258,7 +258,6 @@
 	"contributorsPerLine": 7,
 	"skipCi": false,
 	"repoType": "github",
-	"repoHost": "https://github.com",
 	"projectName": "highlight",
 	"projectOwner": "highlight"
 }
