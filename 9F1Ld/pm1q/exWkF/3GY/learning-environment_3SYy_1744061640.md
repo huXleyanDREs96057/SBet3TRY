@@ -8,6 +8,5 @@ part of the project. Head over to <https://cla.developers.google.com/> to see
 You generally only need to submit a CLA once, so if you've already submitted one
 ## Code reviews
 
-use GitHub pull requests for this purpose. Consult
 
 ## Community Guidelines
