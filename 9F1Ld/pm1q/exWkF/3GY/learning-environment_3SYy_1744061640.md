@@ -6,5 +6,3 @@ this simply gives us permission to use and redistribute your contributions as
 
 You generally only need to submit a CLA once, so if you've already submitted one
 
-
-## Community Guidelines
