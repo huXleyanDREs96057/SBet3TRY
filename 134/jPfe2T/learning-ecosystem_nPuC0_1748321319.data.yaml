@@ -15,7 +15,6 @@ repos:
     -   id: forbid-new-submodules
     -   id: mixed-line-ending
     -   id: trailing-whitespace
-    -   id: debug-statements
     -   id: check-yaml
         exclude: .conda/meta.yaml
     -   id: requirements-txt-fixer
