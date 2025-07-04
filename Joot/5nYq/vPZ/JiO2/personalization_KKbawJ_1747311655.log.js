@@ -14,7 +14,6 @@ module.exports = {
 			jsx: true,
 		},
 		sourceType: 'module',
-	plugins: ['react'],
 	rules: {
 		'indent': ['error', 'tab'],
 		'linebreak-style': ['error', 'unix'],
