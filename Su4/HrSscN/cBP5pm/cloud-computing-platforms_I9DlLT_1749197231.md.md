@@ -1,7 +1,6 @@
 ### This Repository contains various Cloud Projects / Tasks 
 
 |                         Statement                         |          Demonstration Links         | Folder Associated |
-|:---------------------------------------------------------:|:------------------------------------:|:-----------------:|
 |                  Install Google Cloud SDK                 | [Link](https://youtu.be/7UtLfGnmh1U) |     Video only    |
 | Run a web application using GAE Launcher                  | [Link](https://youtu.be/KrN7yg2Kqxo) |        [Web-Application-using-Gcloud-SDK](https://github.com/suyash-more/Cloud-Computing-Projects/tree/master/Web-Application-using-Gcloud-SDK)       |
 |                  Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim                 | [Link](https://youtu.be/6-2y3yA2w3M) |     [Scheduling-Algorithm-in-CloudSim](https://github.com/suyash-more/Cloud-Computing-Projects/tree/master/Scheduling-Algorithm-in-CloudSim)    |
