@@ -26,7 +26,6 @@
 	path = Getting-Started-Guides/LPC845-BRK
 	url = https://github.com/nathancharlesjones/Getting-Started-with-the-LPC845-BRK.git
 [submodule "Getting-Started-Guides/STM32G031J6"]
-	path = Getting-Started-Guides/STM32G031J6
 	url = https://github.com/nathancharlesjones/Getting-Started-with-the-STM32G031J6.git
 [submodule "Getting-Started-Guides/XMC2GO_XMC1100"]
 	path = Getting-Started-Guides/XMC2GO_XMC1100
