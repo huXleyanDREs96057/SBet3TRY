@@ -23,7 +23,6 @@ module.exports = {
 		'quotes': ['error', 'single'],
 		'semi': ['error', 'always'],
 		'comma-dangle': ['error', 'always-multiline'],
-		'no-case-declarations': 'off',
 		'react/jsx-sort-props': 'error',
 		'eqeqeq': 'warn',
 		'quote-props': ['warn', 'consistent-as-needed'],
